@@ -1,8 +1,8 @@
 # Learnt in 2019 - [GYMER]
 
-This is the fourth app of the **Learnt in 2019** series. I always wanted a TABATA Timer kinda app, but a simplified one for my gym workouts. So, I thought why not build one, and experiment on the hybrid mobile app development.
+This is the fourth app of the **Learnt in 2019** series. I always wanted a TABATA Timer kinda app, but a simplified one for my gym workouts. So, I thought why not build one and experiment on the hybrid mobile app development.
 
-**Gymer** is a mobile based timer app built using Ionic 4. With this, you can set timer for your gym workouts intervals and you can check the total time for the whole workout session.
+**Gymer** is a mobile based timer app built using [Ionic 4](https://ionicframework.com/). With this, you can set timer for your gym workouts intervals and you can check the total time for the whole workout session.
 
 <img src="https://github.com/JonesXavi/gymer/blob/master/extras/1.jpeg" alt="Initial State" width="200"/>
 <img src="https://github.com/JonesXavi/gymer/blob/master/extras/2.jpeg" alt="Timer Started" width="200"/>
@@ -19,8 +19,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Ionic shosuld be installed globally. ```npm install -g ionic```
-[Android Studio](https://developer.android.com/studio/install.html) should be installed.
+1. Ionic shosuld be installed globally. ```npm install -g ionic```
+2. [Android Studio](https://developer.android.com/studio/install.html) should be installed.
 
 ### Installing
 
