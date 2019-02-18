@@ -28,7 +28,7 @@ Ionic shosuld be installed globally. ```npm install -g ionic```
 2. Do ```npm install``` inside the repo root folder.
 3. Do ```ionic serve```. Navigate to ```http://localhost:8100``` in the browser and the app will be ready.
 
-###Building the app
+### Building the app
 1. Do ```ionic cordova platform add android```
 2. Do ```ionic cordova build android```. Once completed you can the apk file for android in an output folder. Install in your mobile and start working out
 
