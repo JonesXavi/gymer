@@ -4,9 +4,9 @@ This is the fourth app of the **Learnt in 2019** series. I always wanted a TABAT
 
 **Gymer** is a mobile based timer app built using Ionic 4. With this, you can set timer for your gym workouts intervals and you can check the total time for the whole workout session.
 
-![Initial State](./extras/1.jpg?raw=true "Initial State")
-![Timer Started](./extras/2.jpg?raw=true "Timer Started")
-![Timer Completed](./extras/3.jpg?raw=true "Timer Completed")
+![Initial State](https://github.com/JonesXavi/gymer/blob/master/extras/1.jpeg)
+![Timer Started](https://github.com/JonesXavi/gymer/blob/master/extras/2.jpeg)
+![Timer Completed](https://github.com/JonesXavi/gymer/blob/master/extras/3.jpeg)
 
 ## Learnings
 
